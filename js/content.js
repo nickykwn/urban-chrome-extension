@@ -1,1 +1,1 @@
-alert("Hello from your Chrome extension!");
+alert("Welcome to Urban Outfitters!");

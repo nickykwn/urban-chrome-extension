@@ -9,6 +9,9 @@
     }
   ],
   "browser_action": {
-    "default_icon": "urban.png"
-  }
+    "default_icon": "urban.png",
+    "default_popup": "popup.html",
+    "default_title": "Urban Outfitters"
+  },
+  "permissions": ["activeTab"]
 }

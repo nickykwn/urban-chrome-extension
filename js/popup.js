@@ -7,4 +7,8 @@ document.addEventListener('DOMContentLoaded', function() {
       chrome.tabs.sendMessage(tabs[0].id, 'hi')
     })
   }
+
+
+
+
 }, false)
